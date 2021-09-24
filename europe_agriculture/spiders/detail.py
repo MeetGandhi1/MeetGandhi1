@@ -33,7 +33,7 @@ class DetailSpider(scrapy.Spider):
 
         logging.basicConfig()
         logger = logging.getLogger('logger')
-        apikey = 'a77f8d9112a14cd6bfc4e3734261b2aa'
+        apikey = ''
         client = ScrapinghubClient(apikey)
         project = client.get_project(self.project_id)
         collections = project.collections
