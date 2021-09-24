@@ -1,0 +1,15 @@
+README.md
+setup.py
+europe_agriculture/__init__.py
+europe_agriculture/items.py
+europe_agriculture/middlewares.py
+europe_agriculture/pipelines.py
+europe_agriculture/settings.py
+europe_agriculture/spiders/__init__.py
+europe_agriculture/spiders/detail.py
+europe_agriculture/spiders/listing.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
